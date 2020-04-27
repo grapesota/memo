@@ -220,5 +220,5 @@ for index in tqdm(range(1,i)):
             break
 print("")
 ```
-
+- dvwa のその他レベル記録
 [DVWA-blind％](https://www.notion.so/DVWA-blind-bfe6f9d704be42cd93b52f04834c60e6)
